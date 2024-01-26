@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 02 09:10:29 COT 2023","Thu Nov 02 09:10:33 COT 2023","4262","firefox","tests\login.spec.js","","","","User Login success",""
+"passed","Thu Nov 02 09:10:29 COT 2023","Thu Nov 02 09:10:31 COT 2023","2716","webkit","tests\login.spec.js","","","","User Login success",""
+"passed","Thu Nov 02 09:10:29 COT 2023","Thu Nov 02 09:10:33 COT 2023","4685","chromium","tests\login.spec.js","","","","User Login success",""
